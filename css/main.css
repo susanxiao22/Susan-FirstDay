@@ -1,1 +1,8 @@
 /* Place CSS styles here */
+body {
+    background-color: #97d4f1;
+}
+
+img {
+    width: 100px;
+}
