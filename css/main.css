@@ -1,7 +1,12 @@
 /* Place CSS styles here */
 body {
-    background-color: #97d4f1;
+    background-color: #3c8eb4;
 }
+a {
+    color: #773ed3
+
+}
+
 
 img {
     width: 150px;
